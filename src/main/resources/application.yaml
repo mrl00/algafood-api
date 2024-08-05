@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: algafood-api
+  datasource:
+    url: jdbc:postgresql://localhost:5432/algafood_db
+    username: postgres
+    password: qwert
